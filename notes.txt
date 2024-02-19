@@ -1,0 +1,6 @@
+- Endpoints: tt simplement est l'emplacement du service web, use to find the API on the internet, like a web adress
+
+An endpoint is a specific uniform resource locator (URL) or uniform resource identifier (URI) representing a specific API function or resource. Each endpoint corresponds to a particular operation that the API can perform.
+
+
+APIs:  https://github.com/public-apis/public-apis
